@@ -34,5 +34,4 @@ xlabel('k')
 ylabel('A_k')
 grid
 
-
-Am folosit formulele de la SS pentru determinarea coeficientilor si implicit a spectrului de amplitudini.
+%Am folosit formulele de la SS pentru determinarea coeficientilor si implicit a spectrului de amplitudini.
