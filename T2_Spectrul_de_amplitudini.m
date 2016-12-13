@@ -1,4 +1,4 @@
-%calculez A_k pentru fiecare C_k pe baza semnalului initial
+%calculez Ak pentru fiecare Ck pe baza semnalului initial
 i=sqrt(-1);
 P=40; %perioada semnalului
 D=6; %durata semnalului
